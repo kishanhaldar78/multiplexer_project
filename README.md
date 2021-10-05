@@ -1,2 +1,2 @@
 # multiplexer_project
-This Project desugn in C++ Language
+This Project design in C++ Language
